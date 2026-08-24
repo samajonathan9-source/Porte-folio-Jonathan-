@@ -1,4 +1,8 @@
-# Jonathan Evina — Architecte de systèmes, chercheur en physique computationnelle
+<p align="center">
+  <img src="docs/brand/portfolio-logo.png" alt="Noyau topologique universel — trois étoiles convergent vers un même cycle H1" width="220"/>
+</p>
+
+<h1 align="center">Jonathan Evina — Architecte de systèmes, chercheur en physique computationnelle</h1>
 
 > 📍 Yaoundé, Cameroun · 18 ans · autodidacte
 > **ORCID** [0009-0000-4092-5313](https://orcid.org/0009-0000-4092-5313)
